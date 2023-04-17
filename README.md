@@ -17,3 +17,13 @@ Awesome TCM Resources
 ## Open Source tools
 * [jieba](https://github.com/fxsjy/jieba): 中文分詞工具
 * [cn2an](https://pypi.org/project/cn2an/)：轉換中文數字跟數字型態的方便工具
+
+## 論文
+* [中醫健保十大藥方臨床應用之探討](https://dep.mohw.gov.tw/DOCMAP/dl-11418-b429f178-3ecf-4d82-aebf-b4e8878099c1.html)
+* [Development of a Modern Pulse Diagnosis Using Harmonics Analysis of Arterial Signals](https://2022.oapublishing-jaims.com/JAIMS/article/index/21)
+
+
+## 其他
+* [Ethnobotanical study of medicinal plants used by the Andean people of Canta, Lima, Peru](https://www.sciencedirect.com/science/article/abs/pii/S0378874106006210)
+* [常用台灣青草藥](https://dpm.taiwan-pharma.org.tw/article/1305/)
+* [台灣青草藥實用篇](https://www.books.com.tw/products/0010395680)
