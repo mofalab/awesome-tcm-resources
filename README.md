@@ -27,3 +27,7 @@ Awesome TCM Resources
 * [Ethnobotanical study of medicinal plants used by the Andean people of Canta, Lima, Peru](https://www.sciencedirect.com/science/article/abs/pii/S0378874106006210)
 * [常用台灣青草藥](https://dpm.taiwan-pharma.org.tw/article/1305/)
 * [台灣青草藥實用篇](https://www.books.com.tw/products/0010395680)
+* [台灣民間藥用植物誌](https://rarebooks.ith.sinica.edu.tw/sinicafrsFront99/search/search_result2.htm?xmlId=0000128655&display=detail)
+* [臺灣原住民族藥用植物誌—邵族](https://www.gjtaiwan.com/new/?product=%E8%87%BA%E7%81%A3%E5%8E%9F%E4%BD%8F%E6%B0%91%E6%97%8F%E8%97%A5%E7%94%A8%E6%A4%8D%E7%89%A9%E8%AA%8C-%E9%82%B5%E6%97%8F)
+* [古今本草植物圖鑑](https://www.books.com.tw/products/0010860024)
+* [台灣植物資訊整合查詢系統](https://tai2.ntu.edu.tw/search/3)
